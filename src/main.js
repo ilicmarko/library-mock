@@ -5,6 +5,5 @@ import createServer from './api/mock'
 
 createApp(App).mount('#app')
 
-if (process.env.NODE_ENV === 'development') {
-    createServer();
-}
+// Create a server even if on prod (Netlify).
+createServer();
