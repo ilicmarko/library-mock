@@ -10,7 +10,7 @@ export default {}
         Don't Wait! Mock the API
       </h3>
       <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
-        Working example for <a class="underline" href="https://css-tricks.com">CSS-Tricks article</a>.
+        Working example for <a class="underline" href="https://css-tricks.com/dont-wait-mock-the-api/">CSS-Tricks article</a>.
       </p>
     </div>
   </div>
