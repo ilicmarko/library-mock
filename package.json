@@ -12,7 +12,7 @@
     "vue": "^3.0.0-beta.15"
   },
   "devDependencies": {
-    "@vue/compiler-sfc": "^3.0.0-beta.15",
+    "@vue/compiler-sfc": "^3.2.45",
     "sass": "^1.26.10",
     "sass-loader": "^9.0.2",
     "vite": "^1.0.0-beta.3"
